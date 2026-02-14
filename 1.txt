@@ -1,0 +1,48 @@
+Create a minimal interactive romantic single-page website with a classy dark aesthetic.
+
+STYLE:
+	•	Elegant dark background (black or deep gradient)
+	•	Minimal luxury vibe
+	•	Smooth cinematic animations
+	•	Modern clean typography
+	•	Romantic but subtle (not childish or overly cute)
+
+INTRO SEQUENCE:
+	1.	First screen shows text with typing animation:
+
+“Hey, I’m Shakar.”
+	2.	After a short delay, next lines appear one by one with smooth fade or typing effect:
+
+“I wanted to ask you something…”
+“Not too loud.”
+“Not too obvious.”
+“But maybe you already feel it.”
+	3.	Then reveal main question:
+
+“Will you be my Valentine? ??”
+
+BUTTONS:
+	•	YES ??
+	•	NO ??
+
+INTERACTION:
+
+If YES clicked:
+	•	Smooth romantic animation (soft glow or floating hearts)
+	•	Show message: “I knew you’d choose right.”
+
+If NO clicked:
+	•	NO button moves away or becomes harder to click
+	•	Show playful messages:
+“Are you sure?”
+“Think again ??”
+Eventually guiding toward YES.
+
+TECH:
+	•	Single page.
+	•	HTML + CSS + JavaScript.
+	•	Mobile responsive.
+	•	Smooth transitions.
+
+IMPORTANT:
+	•	Keep vibe mysterious, confident, elegant.
